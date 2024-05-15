@@ -48,7 +48,7 @@ pytest==8.2.0
 pytest-dynamodb==2.3.0
 python-dateutil==2.9.0.post0
 pytweening==1.0.7
-pywin32==306
+pywin32==302
 pywin32-ctypes==0.2.2
 requests==2.31.0
 s3transfer==0.10.1
