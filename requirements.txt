@@ -61,4 +61,4 @@ types-s3transfer==0.10.1
 urllib3==2.0.6
 virtualenv==20.26.1
 Werkzeug==3.0.3
-gunicorn=20.1.0
+gunicorn==20.1.0
